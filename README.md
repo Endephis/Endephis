@@ -6,5 +6,6 @@ Maybe sometimes I will share my projects. I dunno.
 Here's nothing to see here for this time. I'm too lazy and too dumb.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Filippuuu&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filippuuu&layout=compact&theme=chartreuse-dark)
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Filippuuu)](https://github.com/anuraghazra/github-readme-stats)-->
