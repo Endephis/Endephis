@@ -1,4 +1,4 @@
-# Hello world!
+# Hello world! 🌸
 #### I am Filippu. I'm just a 13 y/o idiot who likes programming for a bit.
 
 Maybe sometimes I will share my projects. I dunno.
