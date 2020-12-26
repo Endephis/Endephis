@@ -1,5 +1,5 @@
 # Hello world! 🌸
-#### I am Filippu. I'm just a 13 y/o idiot who likes programming for a bit.
+#### I am Filippu. I'm just a 13 y/o idiot who likes programming for a bit (I am lying).
 
 Maybe sometime I will share my projects. I dunno.
 
