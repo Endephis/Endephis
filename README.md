@@ -3,6 +3,6 @@
 
 Maybe sometimes I will share my projects. I dunno.
 
-Here's nothing to see here for this time. I'm too lazy and too dumb to start some projects.
+Here's nothing to see here for this time. I'm too lazy and too dumb.
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Filippuuu)](https://github.com/anuraghazra/github-readme-stats)-->
